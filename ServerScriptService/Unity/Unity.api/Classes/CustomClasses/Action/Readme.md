@@ -1,0 +1,1 @@
+A set of actions the played could perform with priority using the command pattern.

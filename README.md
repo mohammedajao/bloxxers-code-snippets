@@ -1,0 +1,1 @@
+Core code of Bloxxers ignoring game specific code such as the physics used, animations, behavior tree, and how player actions are ran. Code was made in 2017 when I was a teenager.

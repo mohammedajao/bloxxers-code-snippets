@@ -1,0 +1,1 @@
+A bunch of lua tables holding data, similar to YAML or JSON, for internal use.
